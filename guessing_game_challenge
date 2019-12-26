@@ -51,60 +51,8 @@
     "        print('WÄRMER!')\n",
     "    elif abs(random_num - user_num) > abs(random_num - guess_list[-2]):\n",
     "        print('KÄLTER!')\n",
-    "\n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
-    "        \n",
     "        "
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 7,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "7"
-      ]
-     },
-     "execution_count": 7,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
  ],
  "metadata": {
   "kernelspec": {
